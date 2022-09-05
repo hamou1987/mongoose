@@ -1,0 +1,32 @@
+var Persons=[
+    {
+        _id:"2",name:"Rana",age:25,favoriteFoods:["chocolate"]
+    },
+    {
+        _id:"3",name:"Hatem",age:20,favoriteFoods:["strawberry","burritos"]
+    },
+    {
+        _id:"4",name:"salim",age:35,favoriteFoods:["smoothie"]
+    },
+    {
+        _id:"5",name:"Farah",age:26,favoriteFoods:["pizza"]
+    },
+    {
+        _id:"6",name:"Mary",age:25,favoriteFoods:["chocolate"]
+    },
+    {
+        _id:"7",name:"Hanene",age:52,favoriteFoods:["orange","burritos"]
+    },
+    { _id:"8",name: "Ahmed", age: 26, favoriteFoods: ["chocolate"] 
+    },
+    {
+        _id:"9",name:"Mary",age:37,favoriteFoods:["burritos"]
+    },
+    {
+        _id:"10",name:"Mary",age:41,favoriteFoods:["chocolate"]
+    },
+    {
+        _id:"11",name:"Marouen",age:41,favoriteFoods:["apples"]
+    }
+]
+module.exports=Persons
